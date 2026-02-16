@@ -1,0 +1,131 @@
+﻿{
+    "ServiceDelivery": {
+        "ResponseTimestamp": "2026-02-16T07:16:22Z",
+        "ProducerRef": "SF",
+        "Status": true,
+        "StopMonitoringDelivery": {
+            "version": "1.4",
+            "ResponseTimestamp": "2026-02-16T07:16:22Z",
+            "Status": true,
+            "MonitoredStopVisit": [
+                {
+                    "RecordedAtTime": "2026-02-16T07:16:18Z",
+                    "MonitoringRef": "17763",
+                    "MonitoredVehicleJourney": {
+                        "LineRef": "22",
+                        "DirectionRef": "OB",
+                        "FramedVehicleJourneyRef": {
+                            "DataFrameRef": "2026-02-15",
+                            "DatedVehicleJourneyRef": "12000008"
+                        },
+                        "PublishedLineName": "FILLMORE",
+                        "OperatorRef": "SF",
+                        "OriginRef": "14603",
+                        "OriginName": "Fillmore St & Bay St",
+                        "DestinationRef": "17765",
+                        "DestinationName": "Mission Bay North & 4th St",
+                        "Monitored": true,
+                        "InCongestion": null,
+                        "VehicleLocation": {
+                            "Longitude": "-122.419708",
+                            "Latitude": "37.7650108"
+                        },
+                        "Bearing": "75.0000000000",
+                        "Occupancy": "seatsAvailable",
+                        "VehicleRef": "5848",
+                        "MonitoredCall": {
+                            "StopPointRef": "17763",
+                            "StopPointName": "16th St & Missouri St",
+                            "VehicleLocationAtStop": "",
+                            "VehicleAtStop": "false",
+                            "DestinationDisplay": "UCSF Mission Bay",
+                            "AimedArrivalTime": "2026-02-16T07:20:53Z",
+                            "ExpectedArrivalTime": "2026-02-16T07:24:14Z",
+                            "AimedDepartureTime": "2026-02-16T07:20:53Z",
+                            "ExpectedDepartureTime": null,
+                            "Distances": ""
+                        }
+                    }
+                },
+                {
+                    "RecordedAtTime": "2026-02-16T07:16:18Z",
+                    "MonitoringRef": "17763",
+                    "MonitoredVehicleJourney": {
+                        "LineRef": "22",
+                        "DirectionRef": "OB",
+                        "FramedVehicleJourneyRef": {
+                            "DataFrameRef": "2026-02-15",
+                            "DatedVehicleJourneyRef": "12000007"
+                        },
+                        "PublishedLineName": "FILLMORE",
+                        "OperatorRef": "SF",
+                        "OriginRef": "14603",
+                        "OriginName": "Fillmore St & Bay St",
+                        "DestinationRef": "17765",
+                        "DestinationName": "Mission Bay North & 4th St",
+                        "Monitored": true,
+                        "InCongestion": null,
+                        "VehicleLocation": {
+                            "Longitude": "-122.429207",
+                            "Latitude": "37.7694016"
+                        },
+                        "Bearing": "165.0000000000",
+                        "Occupancy": "seatsAvailable",
+                        "VehicleRef": "5818",
+                        "MonitoredCall": {
+                            "StopPointRef": "17763",
+                            "StopPointName": "16th St & Missouri St",
+                            "VehicleLocationAtStop": "",
+                            "VehicleAtStop": "false",
+                            "DestinationDisplay": "UCSF Mission Bay",
+                            "AimedArrivalTime": "2026-02-16T07:05:53Z",
+                            "ExpectedArrivalTime": "2026-02-16T07:30:35Z",
+                            "AimedDepartureTime": "2026-02-16T07:05:53Z",
+                            "ExpectedDepartureTime": null,
+                            "Distances": ""
+                        }
+                    }
+                },
+                {
+                    "RecordedAtTime": "2026-02-16T07:16:18Z",
+                    "MonitoringRef": "17763",
+                    "MonitoredVehicleJourney": {
+                        "LineRef": "22",
+                        "DirectionRef": "OB",
+                        "FramedVehicleJourneyRef": {
+                            "DataFrameRef": "2026-02-15",
+                            "DatedVehicleJourneyRef": "12000009"
+                        },
+                        "PublishedLineName": "FILLMORE",
+                        "OperatorRef": "SF",
+                        "OriginRef": "14603",
+                        "OriginName": "Fillmore St & Bay St",
+                        "DestinationRef": "17765",
+                        "DestinationName": "Mission Bay North & 4th St",
+                        "Monitored": true,
+                        "InCongestion": null,
+                        "VehicleLocation": {
+                            "Longitude": "-122.431664",
+                            "Latitude": "37.7778282"
+                        },
+                        "Bearing": "165.0000000000",
+                        "Occupancy": "seatsAvailable",
+                        "VehicleRef": "5723",
+                        "MonitoredCall": {
+                            "StopPointRef": "17763",
+                            "StopPointName": "16th St & Missouri St",
+                            "VehicleLocationAtStop": "",
+                            "VehicleAtStop": "false",
+                            "DestinationDisplay": "UCSF Mission Bay",
+                            "AimedArrivalTime": "2026-02-16T07:35:53Z",
+                            "ExpectedArrivalTime": "2026-02-16T07:36:43Z",
+                            "AimedDepartureTime": "2026-02-16T07:35:53Z",
+                            "ExpectedDepartureTime": null,
+                            "Distances": ""
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1530 @@
+﻿{
+    "Contents": {
+        "ResponseTimestamp": "2026-02-15T23:03:14-08:00",
+        "dataObjects": {
+            "id": "SF",
+            "ScheduledStopPoint": [
+                {
+                    "id": "17764",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th St & 4th St",
+                    "Location": {
+                        "Longitude": "-122.390719",
+                        "Latitude": "37.766765"
+                    },
+                    "Url": "https://www.sfmta.com/17764",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "13282",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th St & Bryant St",
+                    "Location": {
+                        "Longitude": "-122.410408",
+                        "Latitude": "37.765595"
+                    },
+                    "Url": "https://www.sfmta.com/13282",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "13281",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th St & Bryant St",
+                    "Location": {
+                        "Longitude": "-122.410294",
+                        "Latitude": "37.765658"
+                    },
+                    "Url": "https://www.sfmta.com/13281",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "13283",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th St & Church St",
+                    "Location": {
+                        "Longitude": "-122.428523",
+                        "Latitude": "37.764579"
+                    },
+                    "Url": "https://www.sfmta.com/13283",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "13284",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th St & Dolores St",
+                    "Location": {
+                        "Longitude": "-122.426521",
+                        "Latitude": "37.764707"
+                    },
+                    "Url": "https://www.sfmta.com/13284",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "13285",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th St & Dolores St",
+                    "Location": {
+                        "Longitude": "-122.426292",
+                        "Latitude": "37.764609"
+                    },
+                    "Url": "https://www.sfmta.com/13285",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "17289",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th St & Folsom St",
+                    "Location": {
+                        "Longitude": "-122.415428",
+                        "Latitude": "37.7654"
+                    },
+                    "Url": "https://www.sfmta.com/17289",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "13291",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th St & Mission St",
+                    "Location": {
+                        "Longitude": "-122.419611",
+                        "Latitude": "37.765152"
+                    },
+                    "Url": "https://www.sfmta.com/13291",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "13293",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th St & Mission St",
+                    "Location": {
+                        "Longitude": "-122.419835",
+                        "Latitude": "37.764983"
+                    },
+                    "Url": "https://www.sfmta.com/13293",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "17763",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th St & Missouri St",
+                    "Location": {
+                        "Longitude": "-122.397023",
+                        "Latitude": "37.766384"
+                    },
+                    "Url": "https://www.sfmta.com/17763",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "17866",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th St & Owen St",
+                    "Location": {
+                        "Longitude": "-122.39253",
+                        "Latitude": "37.76665"
+                    },
+                    "Url": "https://www.sfmta.com/17866",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "13296",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th St & Potrero Ave",
+                    "Location": {
+                        "Longitude": "-122.407612",
+                        "Latitude": "37.765764"
+                    },
+                    "Url": "https://www.sfmta.com/13296",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "13295",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th St & Potrero Ave",
+                    "Location": {
+                        "Longitude": "-122.407624",
+                        "Latitude": "37.7658"
+                    },
+                    "Url": "https://www.sfmta.com/13295",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "17767",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th Street & 4th Street",
+                    "Location": {
+                        "Longitude": "-122.390891",
+                        "Latitude": "37.766864"
+                    },
+                    "Url": "https://www.sfmta.com/17767",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "17768",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th Street & Missouri St",
+                    "Location": {
+                        "Longitude": "-122.397011",
+                        "Latitude": "37.766492"
+                    },
+                    "Url": "https://www.sfmta.com/17768",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "17865",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th Street & Owen St",
+                    "Location": {
+                        "Longitude": "-122.392805",
+                        "Latitude": "37.766722"
+                    },
+                    "Url": "https://www.sfmta.com/17865",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "17770",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th Street & Rhode Island St",
+                    "Location": {
+                        "Longitude": "-122.402822",
+                        "Latitude": "37.76611"
+                    },
+                    "Url": "https://www.sfmta.com/17770",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "17769",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th Street & Wisconsin St",
+                    "Location": {
+                        "Longitude": "-122.399842",
+                        "Latitude": "37.766287"
+                    },
+                    "Url": "https://www.sfmta.com/17769",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "17761",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th St& Rhode Island St",
+                    "Location": {
+                        "Longitude": "-122.402856",
+                        "Latitude": "37.765994"
+                    },
+                    "Url": "https://www.sfmta.com/17761",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "13299",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th St & Shotwell St",
+                    "Location": {
+                        "Longitude": "-122.416048",
+                        "Latitude": "37.765218"
+                    },
+                    "Url": "https://www.sfmta.com/13299",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "13301",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th St & Valencia St",
+                    "Location": {
+                        "Longitude": "-122.422056",
+                        "Latitude": "37.764849"
+                    },
+                    "Url": "https://www.sfmta.com/13301",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "13300",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th St & Valencia St",
+                    "Location": {
+                        "Longitude": "-122.421746",
+                        "Latitude": "37.764987"
+                    },
+                    "Url": "https://www.sfmta.com/13300",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "17762",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "16th St & Wisconsin St",
+                    "Location": {
+                        "Longitude": "-122.399911",
+                        "Latitude": "37.766198"
+                    },
+                    "Url": "https://www.sfmta.com/17762",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "17324",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "3rd St & Gene Friend Way",
+                    "Location": {
+                        "Longitude": "-122.389377",
+                        "Latitude": "37.76871"
+                    },
+                    "Url": "https://www.sfmta.com/17324",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "17321",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "3rd St & Warriors Way",
+                    "Location": {
+                        "Longitude": "-122.389228",
+                        "Latitude": "37.769049"
+                    },
+                    "Url": "https://www.sfmta.com/17321",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "13085",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Broadway & Steiner St",
+                    "Location": {
+                        "Longitude": "-122.436442",
+                        "Latitude": "37.794131"
+                    },
+                    "Url": "https://www.sfmta.com/13085",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "13086",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Broadway & Steiner St",
+                    "Location": {
+                        "Longitude": "-122.436278",
+                        "Latitude": "37.794056"
+                    },
+                    "Url": "https://www.sfmta.com/13086",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "13984",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Church St & 16th St",
+                    "Location": {
+                        "Longitude": "-122.428722",
+                        "Latitude": "37.764621"
+                    },
+                    "Url": "https://www.sfmta.com/13984",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14005",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Church St & Duboce Ave",
+                    "Location": {
+                        "Longitude": "-122.429167",
+                        "Latitude": "37.769499"
+                    },
+                    "Url": "https://www.sfmta.com/14005",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "17074",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Church St & Duboce Ave",
+                    "Location": {
+                        "Longitude": "-122.42903",
+                        "Latitude": "37.76932"
+                    },
+                    "Url": "https://www.sfmta.com/17074",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "17073",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Church St & Market St",
+                    "Location": {
+                        "Longitude": "-122.428927",
+                        "Latitude": "37.767509"
+                    },
+                    "Url": "https://www.sfmta.com/17073",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "18059",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Church St & Market St",
+                    "Location": {
+                        "Longitude": "-122.429053",
+                        "Latitude": "37.767286"
+                    },
+                    "Url": "https://www.sfmta.com/18059",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14603",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Bay St",
+                    "Location": {
+                        "Longitude": "-122.43668",
+                        "Latitude": "37.802585"
+                    },
+                    "Url": "https://www.sfmta.com/14603",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14606",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Beach St",
+                    "Location": {
+                        "Longitude": "-122.437127",
+                        "Latitude": "37.804423"
+                    },
+                    "Url": "https://www.sfmta.com/14606",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14605",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Broadway",
+                    "Location": {
+                        "Longitude": "-122.434878",
+                        "Latitude": "37.793805"
+                    },
+                    "Url": "https://www.sfmta.com/14605",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14604",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Broadway",
+                    "Location": {
+                        "Longitude": "-122.434842",
+                        "Latitude": "37.794158"
+                    },
+                    "Url": "https://www.sfmta.com/14604",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14610",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Cervantes Blvd",
+                    "Location": {
+                        "Longitude": "-122.436806",
+                        "Latitude": "37.802817"
+                    },
+                    "Url": "https://www.sfmta.com/14610",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14608",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Chestnut St",
+                    "Location": {
+                        "Longitude": "-122.436229",
+                        "Latitude": "37.801091"
+                    },
+                    "Url": "https://www.sfmta.com/14608",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14609",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Chestnut St",
+                    "Location": {
+                        "Longitude": "-122.436469",
+                        "Latitude": "37.800891"
+                    },
+                    "Url": "https://www.sfmta.com/14609",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14612",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Eddy St",
+                    "Location": {
+                        "Longitude": "-122.432401",
+                        "Latitude": "37.781523"
+                    },
+                    "Url": "https://www.sfmta.com/14612",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14611",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Eddy St",
+                    "Location": {
+                        "Longitude": "-122.432329",
+                        "Latitude": "37.781733"
+                    },
+                    "Url": "https://www.sfmta.com/14611",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14614",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Geary Blvd",
+                    "Location": {
+                        "Longitude": "-122.432808",
+                        "Latitude": "37.784403"
+                    },
+                    "Url": "https://www.sfmta.com/14614",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14615",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Geary Blvd",
+                    "Location": {
+                        "Longitude": "-122.433065",
+                        "Latitude": "37.784359"
+                    },
+                    "Url": "https://www.sfmta.com/14615",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14613",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Golden Gate Ave",
+                    "Location": {
+                        "Longitude": "-122.431955",
+                        "Latitude": "37.779859"
+                    },
+                    "Url": "https://www.sfmta.com/14613",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14616",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Grove St",
+                    "Location": {
+                        "Longitude": "-122.431369",
+                        "Latitude": "37.776998"
+                    },
+                    "Url": "https://www.sfmta.com/14616",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14617",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Grove St",
+                    "Location": {
+                        "Longitude": "-122.431472",
+                        "Latitude": "37.776859"
+                    },
+                    "Url": "https://www.sfmta.com/14617",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14618",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Haight St",
+                    "Location": {
+                        "Longitude": "-122.430537",
+                        "Latitude": "37.772199"
+                    },
+                    "Url": "https://www.sfmta.com/14618",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14620",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Haight St",
+                    "Location": {
+                        "Longitude": "-122.430347",
+                        "Latitude": "37.772033"
+                    },
+                    "Url": "https://www.sfmta.com/14620",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14622",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Hayes St",
+                    "Location": {
+                        "Longitude": "-122.431207",
+                        "Latitude": "37.775598"
+                    },
+                    "Url": "https://www.sfmta.com/14622",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14621",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Hayes St",
+                    "Location": {
+                        "Longitude": "-122.431197",
+                        "Latitude": "37.776106"
+                    },
+                    "Url": "https://www.sfmta.com/14621",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14623",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Jackson St",
+                    "Location": {
+                        "Longitude": "-122.434556",
+                        "Latitude": "37.792761"
+                    },
+                    "Url": "https://www.sfmta.com/14623",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14624",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Jackson St",
+                    "Location": {
+                        "Longitude": "-122.434607",
+                        "Latitude": "37.792386"
+                    },
+                    "Url": "https://www.sfmta.com/14624",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14625",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Jefferson St",
+                    "Location": {
+                        "Longitude": "-122.437207",
+                        "Latitude": "37.805609"
+                    },
+                    "Url": "https://www.sfmta.com/14625",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14627",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Lombard St",
+                    "Location": {
+                        "Longitude": "-122.436051",
+                        "Latitude": "37.799595"
+                    },
+                    "Url": "https://www.sfmta.com/14627",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14626",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Lombard St",
+                    "Location": {
+                        "Longitude": "-122.435952",
+                        "Latitude": "37.799707"
+                    },
+                    "Url": "https://www.sfmta.com/14626",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14629",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Mcallister St",
+                    "Location": {
+                        "Longitude": "-122.431762",
+                        "Latitude": "37.778343"
+                    },
+                    "Url": "https://www.sfmta.com/14629",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14628",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Mcallister St",
+                    "Location": {
+                        "Longitude": "-122.431687",
+                        "Latitude": "37.77854"
+                    },
+                    "Url": "https://www.sfmta.com/14628",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14630",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & North Point St",
+                    "Location": {
+                        "Longitude": "-122.436791",
+                        "Latitude": "37.803547"
+                    },
+                    "Url": "https://www.sfmta.com/14630",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14632",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Oak St",
+                    "Location": {
+                        "Longitude": "-122.430866",
+                        "Latitude": "37.773759"
+                    },
+                    "Url": "https://www.sfmta.com/14632",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14631",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Oak St",
+                    "Location": {
+                        "Longitude": "-122.430825",
+                        "Latitude": "37.774268"
+                    },
+                    "Url": "https://www.sfmta.com/14631",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14633",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & O'Farrell St",
+                    "Location": {
+                        "Longitude": "-122.432627",
+                        "Latitude": "37.783193"
+                    },
+                    "Url": "https://www.sfmta.com/14633",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14634",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & O'Farrell St",
+                    "Location": {
+                        "Longitude": "-122.432699",
+                        "Latitude": "37.783019"
+                    },
+                    "Url": "https://www.sfmta.com/14634",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14635",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Pine St",
+                    "Location": {
+                        "Longitude": "-122.433565",
+                        "Latitude": "37.788049"
+                    },
+                    "Url": "https://www.sfmta.com/14635",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14636",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Pine St",
+                    "Location": {
+                        "Longitude": "-122.433655",
+                        "Latitude": "37.787717"
+                    },
+                    "Url": "https://www.sfmta.com/14636",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14637",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Sacramento St",
+                    "Location": {
+                        "Longitude": "-122.4341",
+                        "Latitude": "37.789925"
+                    },
+                    "Url": "https://www.sfmta.com/14637",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14640",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Sutter St",
+                    "Location": {
+                        "Longitude": "-122.433244",
+                        "Latitude": "37.786051"
+                    },
+                    "Url": "https://www.sfmta.com/14640",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14641",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Sutter St",
+                    "Location": {
+                        "Longitude": "-122.433268",
+                        "Latitude": "37.785814"
+                    },
+                    "Url": "https://www.sfmta.com/14641",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14642",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Turk St",
+                    "Location": {
+                        "Longitude": "-122.432138",
+                        "Latitude": "37.780204"
+                    },
+                    "Url": "https://www.sfmta.com/14642",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "14643",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Fillmore St & Union St",
+                    "Location": {
+                        "Longitude": "-122.435489",
+                        "Latitude": "37.797391"
+                    },
+                    "Url": "https://www.sfmta.com/14643",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "15018",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Hermann St & Fillmore St",
+                    "Location": {
+                        "Longitude": "-122.429701",
+                        "Latitude": "37.770248"
+                    },
+                    "Url": "https://www.sfmta.com/15018",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "15017",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Hermann St & Fillmore St",
+                    "Location": {
+                        "Longitude": "-122.429929",
+                        "Latitude": "37.770307"
+                    },
+                    "Url": "https://www.sfmta.com/15017",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "17765",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Mission Bay North & 4th St",
+                    "Location": {
+                        "Longitude": "-122.390872",
+                        "Latitude": "37.771062"
+                    },
+                    "Url": "https://www.sfmta.com/17765",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "17766",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Mission Bay South & 4th St Se-Fs/ Bz",
+                    "Location": {
+                        "Longitude": "-122.391037",
+                        "Latitude": "37.770513"
+                    },
+                    "Url": "https://www.sfmta.com/17766",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "16488",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Steiner St & Green St",
+                    "Location": {
+                        "Longitude": "-122.43707",
+                        "Latitude": "37.79606"
+                    },
+                    "Url": "https://www.sfmta.com/16488",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "16487",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Steiner St & Green St",
+                    "Location": {
+                        "Longitude": "-122.436863",
+                        "Latitude": "37.795859"
+                    },
+                    "Url": "https://www.sfmta.com/16487",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "16490",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Steiner St & Union St",
+                    "Location": {
+                        "Longitude": "-122.437054",
+                        "Latitude": "37.796785"
+                    },
+                    "Url": "https://www.sfmta.com/16490",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "16491",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Steiner St & Union St",
+                    "Location": {
+                        "Longitude": "-122.43721",
+                        "Latitude": "37.79668"
+                    },
+                    "Url": "https://www.sfmta.com/16491",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "16493",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Steiner St & Vallejo St",
+                    "Location": {
+                        "Longitude": "-122.43685",
+                        "Latitude": "37.7949"
+                    },
+                    "Url": "https://www.sfmta.com/16493",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "16492",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Steiner St & Vallejo St",
+                    "Location": {
+                        "Longitude": "-122.436669",
+                        "Latitude": "37.794911"
+                    },
+                    "Url": "https://www.sfmta.com/16492",
+                    "StopType": "onstreetBus"
+                },
+                {
+                    "id": "16754",
+                    "Extensions": {
+                        "LocationType": null,
+                        "PlatformCode": null,
+                        "ParentStation": null,
+                        "ValidBetween": {
+                            "FromDate": "2026-02-14T00:00:00-08:00",
+                            "ToDate": "2026-06-05T23:59:00-08:00"
+                        }
+                    },
+                    "Name": "Union St & Fillmore St",
+                    "Location": {
+                        "Longitude": "-122.435661",
+                        "Latitude": "37.797124"
+                    },
+                    "Url": "https://www.sfmta.com/16754",
+                    "StopType": "onstreetBus"
+                }
+            ]
+        }
+    }
+}
