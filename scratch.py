@@ -1,21 +1,24 @@
-import os
-import requests
+from collections import defaultdict
+import json
 
-from dotenv import load_dotenv
+from src.transit_api import get_stop_monitoring
+from src.types import StopMonitoringResp
 
-load_dotenv()
-
-host = "http://api.511.org/"
-operators_endpoint = "transit/operators"
-lines_endpoint = "transit/lines"
-stops_endpoint = "transit/stops"
-stop_timetable_endpoint = "transit/StopMonitoring"
-
-api_key = os.getenv("TRANSIT_API_KEY")
 operator = "SF"
 line_id="22"
-stop_id="17763"
+stop_id="13291"
 
-resp = requests.get(host + stop_timetable_endpoint, {"api_key": api_key, "agency": operator, "stopCode": stop_id})
+resp: StopMonitoringResp = get_stop_monitoring(operator, stop_id=stop_id)
 
-print(resp.text)
+stops_by_line_and_id = {}
+for stop in resp["ServiceDelivery"]["StopMonitoringDelivery"]["MonitoredStopVisit"]:
+    line = stop["MonitoredVehicleJourney"]["LineRef"]
+    stop_id = stop["MonitoringRef"]
+    lines = stops_by_line_and_id.get(stop_id, {})
+    stops = lines.get(line, [])
+    stops.append(stop)
+    lines[line] = stops 
+    stops_by_line_and_id[stop_id] = lines
+
+with open("sample_output/16th_mission_grouped_trips.json", "w") as f:
+    json.dump(stops_by_line_and_id, f, indent=2)

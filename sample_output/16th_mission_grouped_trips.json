@@ -1,0 +1,242 @@
+{
+  "13291": {
+    "22": [
+      {
+        "RecordedAtTime": "2026-02-17T04:47:59Z",
+        "MonitoringRef": "13291",
+        "MonitoredVehicleJourney": {
+          "LineRef": "22",
+          "DirectionRef": "IB",
+          "FramedVehicleJourneyRef": {
+            "DataFrameRef": "2026-02-16",
+            "DatedVehicleJourneyRef": "12000147"
+          },
+          "PublishedLineName": "FILLMORE",
+          "OperatorRef": "SF",
+          "OriginRef": "17765",
+          "OriginName": "Mission Bay North & 4th St",
+          "DestinationRef": "14603",
+          "DestinationName": "Fillmore St & Bay St",
+          "Monitored": true,
+          "InCongestion": null,
+          "VehicleLocation": {
+            "Longitude": "-122.399818",
+            "Latitude": "37.7662888"
+          },
+          "Bearing": "255.0000000000",
+          "Occupancy": "seatsAvailable",
+          "VehicleRef": "5808",
+          "MonitoredCall": {
+            "StopPointRef": "13291",
+            "StopPointName": "16th St & Mission St",
+            "VehicleLocationAtStop": "",
+            "VehicleAtStop": "false",
+            "DestinationDisplay": "Bay Street",
+            "AimedArrivalTime": "2026-02-17T04:54:00Z",
+            "ExpectedArrivalTime": "2026-02-17T04:55:43Z",
+            "AimedDepartureTime": "2026-02-17T04:54:00Z",
+            "ExpectedDepartureTime": null,
+            "Distances": ""
+          }
+        }
+      },
+      {
+        "RecordedAtTime": "2026-02-17T04:47:59Z",
+        "MonitoringRef": "13291",
+        "MonitoredVehicleJourney": {
+          "LineRef": "22",
+          "DirectionRef": "IB",
+          "FramedVehicleJourneyRef": {
+            "DataFrameRef": "2026-02-16",
+            "DatedVehicleJourneyRef": "12000149"
+          },
+          "PublishedLineName": "FILLMORE",
+          "OperatorRef": "SF",
+          "OriginRef": "17765",
+          "OriginName": "Mission Bay North & 4th St",
+          "DestinationRef": "14603",
+          "DestinationName": "Fillmore St & Bay St",
+          "Monitored": true,
+          "InCongestion": null,
+          "VehicleLocation": {
+            "Longitude": "-122.391052",
+            "Latitude": "37.7709885"
+          },
+          "Bearing": "255.0000000000",
+          "Occupancy": "seatsAvailable",
+          "VehicleRef": "5788",
+          "MonitoredCall": {
+            "StopPointRef": "13291",
+            "StopPointName": "16th St & Mission St",
+            "VehicleLocationAtStop": "",
+            "VehicleAtStop": "false",
+            "DestinationDisplay": "Bay Street",
+            "AimedArrivalTime": "2026-02-17T05:06:00Z",
+            "ExpectedArrivalTime": "2026-02-17T05:03:57Z",
+            "AimedDepartureTime": "2026-02-17T05:06:00Z",
+            "ExpectedDepartureTime": null,
+            "Distances": ""
+          }
+        }
+      },
+      {
+        "RecordedAtTime": "1970-01-01T00:00:00Z",
+        "MonitoringRef": "13291",
+        "MonitoredVehicleJourney": {
+          "LineRef": "22",
+          "DirectionRef": "IB",
+          "FramedVehicleJourneyRef": {
+            "DataFrameRef": "2026-02-16",
+            "DatedVehicleJourneyRef": "12000150"
+          },
+          "PublishedLineName": "FILLMORE",
+          "OperatorRef": "SF",
+          "OriginRef": "17765",
+          "OriginName": "Mission Bay North & 4th St",
+          "DestinationRef": "14603",
+          "DestinationName": "Fillmore St & Bay St",
+          "Monitored": true,
+          "InCongestion": null,
+          "VehicleLocation": {
+            "Longitude": "",
+            "Latitude": ""
+          },
+          "Bearing": null,
+          "Occupancy": null,
+          "VehicleRef": null,
+          "MonitoredCall": {
+            "StopPointRef": "13291",
+            "StopPointName": "16th St & Mission St",
+            "VehicleLocationAtStop": "",
+            "VehicleAtStop": "",
+            "DestinationDisplay": "Bay Street",
+            "AimedArrivalTime": "2026-02-17T05:17:00Z",
+            "ExpectedArrivalTime": "2026-02-17T05:15:57Z",
+            "AimedDepartureTime": "2026-02-17T05:17:00Z",
+            "ExpectedDepartureTime": null,
+            "Distances": ""
+          }
+        }
+      }
+    ],
+    "55": [
+      {
+        "RecordedAtTime": "2026-02-17T04:47:59Z",
+        "MonitoringRef": "13291",
+        "MonitoredVehicleJourney": {
+          "LineRef": "55",
+          "DirectionRef": "IB",
+          "FramedVehicleJourneyRef": {
+            "DataFrameRef": "2026-02-16",
+            "DatedVehicleJourneyRef": "11971973"
+          },
+          "PublishedLineName": "DOGPATCH",
+          "OperatorRef": "SF",
+          "OriginRef": "13410",
+          "OriginName": "20th St & 3rd St",
+          "DestinationRef": "13293",
+          "DestinationName": "16th St & Mission St",
+          "Monitored": true,
+          "InCongestion": null,
+          "VehicleLocation": {
+            "Longitude": "-122.397552",
+            "Latitude": "37.7628403"
+          },
+          "Bearing": "345.0000000000",
+          "Occupancy": "seatsAvailable",
+          "VehicleRef": "8837",
+          "MonitoredCall": {
+            "StopPointRef": "13291",
+            "StopPointName": "16th St & Mission St",
+            "VehicleLocationAtStop": "",
+            "VehicleAtStop": "false",
+            "DestinationDisplay": "16th St & Mission",
+            "AimedArrivalTime": "2026-02-17T04:34:28Z",
+            "ExpectedArrivalTime": "2026-02-17T04:56:07Z",
+            "AimedDepartureTime": "2026-02-17T04:34:28Z",
+            "ExpectedDepartureTime": null,
+            "Distances": ""
+          }
+        }
+      },
+      {
+        "RecordedAtTime": "1970-01-01T00:00:00Z",
+        "MonitoringRef": "13291",
+        "MonitoredVehicleJourney": {
+          "LineRef": "55",
+          "DirectionRef": "IB",
+          "FramedVehicleJourneyRef": {
+            "DataFrameRef": "2026-02-16",
+            "DatedVehicleJourneyRef": "11971972"
+          },
+          "PublishedLineName": "DOGPATCH",
+          "OperatorRef": "SF",
+          "OriginRef": "13410",
+          "OriginName": "20th St & 3rd St",
+          "DestinationRef": "13293",
+          "DestinationName": "16th St & Mission St",
+          "Monitored": true,
+          "InCongestion": null,
+          "VehicleLocation": {
+            "Longitude": "",
+            "Latitude": ""
+          },
+          "Bearing": null,
+          "Occupancy": null,
+          "VehicleRef": null,
+          "MonitoredCall": {
+            "StopPointRef": "13291",
+            "StopPointName": "16th St & Mission St",
+            "VehicleLocationAtStop": "",
+            "VehicleAtStop": "",
+            "DestinationDisplay": "16th St & Mission",
+            "AimedArrivalTime": "2026-02-17T04:54:28Z",
+            "ExpectedArrivalTime": "2026-02-17T05:10:41Z",
+            "AimedDepartureTime": "2026-02-17T04:54:28Z",
+            "ExpectedDepartureTime": null,
+            "Distances": ""
+          }
+        }
+      },
+      {
+        "RecordedAtTime": "1970-01-01T00:00:00Z",
+        "MonitoringRef": "13291",
+        "MonitoredVehicleJourney": {
+          "LineRef": "55",
+          "DirectionRef": "IB",
+          "FramedVehicleJourneyRef": {
+            "DataFrameRef": "2026-02-16",
+            "DatedVehicleJourneyRef": "11971971"
+          },
+          "PublishedLineName": "DOGPATCH",
+          "OperatorRef": "SF",
+          "OriginRef": "13410",
+          "OriginName": "20th St & 3rd St",
+          "DestinationRef": "13293",
+          "DestinationName": "16th St & Mission St",
+          "Monitored": true,
+          "InCongestion": null,
+          "VehicleLocation": {
+            "Longitude": "",
+            "Latitude": ""
+          },
+          "Bearing": null,
+          "Occupancy": null,
+          "VehicleRef": null,
+          "MonitoredCall": {
+            "StopPointRef": "13291",
+            "StopPointName": "16th St & Mission St",
+            "VehicleLocationAtStop": "",
+            "VehicleAtStop": "",
+            "DestinationDisplay": "16th St & Mission",
+            "AimedArrivalTime": "2026-02-17T05:14:02Z",
+            "ExpectedArrivalTime": "2026-02-17T05:35:05Z",
+            "AimedDepartureTime": "2026-02-17T05:14:02Z",
+            "ExpectedDepartureTime": null,
+            "Distances": ""
+          }
+        }
+      }
+    ]
+  }
+}
