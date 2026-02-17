@@ -1,4 +1,3 @@
-from collections import defaultdict
 import json
 
 from src.transit_api import get_stop_monitoring
