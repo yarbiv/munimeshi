@@ -1,6 +1,8 @@
 import asyncio
 from meshcore import MeshCore, EventType
 
+from src.transit_api import get_stop_monitoring
+
 import pprint
 
 # PORT = "/dev/tty.usbserial-0001"
@@ -11,8 +13,20 @@ async def main():
     mc = await MeshCore.create_serial(PORT, BAUDRATE)
 
     # Get contacts and send to a specific one
+    resp = get_stop_monitoring("SF", "15401")
+    stops_by_line_and_id = {}
+    for stop in resp["ServiceDelivery"]["StopMonitoringDelivery"]["MonitoredStopVisit"]:
+        line = stop["MonitoredVehicleJourney"]["LineRef"]
+        stop_id = stop["MonitoringRef"]
+        lines = stops_by_line_and_id.get(stop_id, {})
+        stops = lines.get(line, [])
+        stops.append(stop)
+        lines[line] = stops 
+        stops_by_line_and_id[stop_id] = lines
+
+    print(str(stops_by_line_and_id))
     
-    await mc.commands.send_chan_msg(1, "hello from mesh_interface.py!")
+    await mc.commands.send_chan_msg(1, str(stops_by_line_and_id)[0:100])
     result = await mc.commands.get_contacts()
     if result.type == EventType.ERROR:
         print(f"Error getting contacts: {result.payload}")
